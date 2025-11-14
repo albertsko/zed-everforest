@@ -232,13 +232,16 @@ func (zt *ZedTheme) loadPalettes() error {
 			return fmt.Errorf("could not open palette %s: %w", zt.Themes[i].PalettePath, err)
 		}
 
-		if err := json.NewDecoder(paletteFile).Decode(&zt.Themes[i].Palette); err != nil {
-			paletteFile.Close()
-			return fmt.Errorf("failed to decode palette for %s: %w", zt.Themes[i].Name, err)
+		decodeErr := json.NewDecoder(paletteFile).Decode(&zt.Themes[i].Palette)
+
+		closeErr := paletteFile.Close()
+
+		if decodeErr != nil {
+			return fmt.Errorf("failed to decode palette for %s: %w", zt.Themes[i].Name, decodeErr)
 		}
 
-		if err := paletteFile.Close(); err != nil {
-			return fmt.Errorf("could not close palette %s: %w", zt.Themes[i].PalettePath, err)
+		if closeErr != nil {
+			return fmt.Errorf("could not close palette %s: %w", zt.Themes[i].PalettePath, closeErr)
 		}
 	}
 
