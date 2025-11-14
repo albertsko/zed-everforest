@@ -13,3 +13,8 @@ Use the provided `Makefile` to keep generated assets in sync with any palette or
 
 - `make generate` - generate `./themes/*.json` with `./scripts/generate.go`
 - `make lint` - run `golangci-lint`
+
+## Inspiration
+
+- [golang-templates/seed](https://github.com/golang-templates/seed) - `Makefile`, CI, and `.gitignore`
+- [TheStandup - DHH Talks Omarchy](https://www.youtube.com/watch?v=ljGPvgMPOn8) - motivation behind doing my best in porting fav color scheme to fav code editor <3
