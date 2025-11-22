@@ -5,10 +5,10 @@ Comes in `regular`, `material`, and `blur` variants.
 
 ## Preview
 
-| Theme     | Regular                                     | Material                                              | Blur                                          |
-| :-------- | :------------------------------------------ | :---------------------------------------------------- | :-------------------------------------------- |
-| **Dark**  | ![Dark Regular screenshot](docs/dark.png)   | ![Dark Material screenshot](docs/dark-material.png)   | ![Dark Blur screenshot](docs/dark-blur.png)   |
-| **Light** | ![Light Regular screenshot](docs/light.png) | ![Light Material screenshot](docs/light-material.png) | ![Light Blur screenshot](docs/light-blur.png) |
+| Theme            | `regular`                                   | `material`                                            | `blur`                                        |
+| :--------------- | :------------------------------------------ | :---------------------------------------------------- | :-------------------------------------------- |
+| **Dark Medium**  | ![Dark Regular screenshot](docs/dark.png)   | ![Dark Material screenshot](docs/dark-material.png)   | ![Dark Blur screenshot](docs/dark-blur.png)   |
+| **Light Medium** | ![Light Regular screenshot](docs/light.png) | ![Light Material screenshot](docs/light-material.png) | ![Light Blur screenshot](docs/light-blur.png) |
 
 _Wallpaper shown in the background: [aerial photography of roadway](https://unsplash.com/photos/aerial-photography-of-roadway-Wn4ulyzVoD4)._
 
