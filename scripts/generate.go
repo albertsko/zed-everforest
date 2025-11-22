@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	Author = "Albert Skonieczny"
+	Author = "Albert Skonieczny <albertskonieczny@gmail.com>"
 	Name   = "Everforest"
 
 	EverforestTemplatePath         = "./templates/everforest.json.tmpl"

@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "author": "Albert Skonieczny",
+  "author": "Albert Skonieczny <albertskonieczny@gmail.com>",
   "name": "Everforest (blur)",
   "themes": [
     {
