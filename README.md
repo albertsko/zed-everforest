@@ -3,6 +3,15 @@
 A faithful port of sainnhe's [Everforest](https://github.com/sainnhe/everforest) theme for Zed.
 Comes in `regular`, `material`, and `blur` variants.
 
+## Preview
+
+| Theme     | Regular                                     | Material                                              | Blur                                          |
+| :-------- | :------------------------------------------ | :---------------------------------------------------- | :-------------------------------------------- |
+| **Dark**  | ![Dark Regular screenshot](docs/dark.png)   | ![Dark Material screenshot](docs/dark-material.png)   | ![Dark Blur screenshot](docs/dark-blur.png)   |
+| **Light** | ![Light Regular screenshot](docs/light.png) | ![Light Material screenshot](docs/light-material.png) | ![Light Blur screenshot](docs/light-blur.png) |
+
+_Wallpaper shown in the background: [aerial photography of roadway](https://unsplash.com/photos/aerial-photography-of-roadway-Wn4ulyzVoD4)._
+
 ## Palettes
 
 The swatches below are pulled from `./palettes/*.json`. Each cell shows an image tinted with the palette color, covering the colors used by the `./scripts/generate.go`.
