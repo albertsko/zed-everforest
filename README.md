@@ -17,15 +17,15 @@ Comes in `regular`, `material`, and `blur` variants.
   <tbody>
     <tr>
       <td>Dark Medium</td>
-      <td><img src="docs/dark.png" width="320" alt="Dark Regular screenshot" /></td>
-      <td><img src="docs/dark-material.png" width="320" alt="Dark Material screenshot" /></td>
-      <td><img src="docs/dark-blur.png" width="320" alt="Dark Blur screenshot" /></td>
+      <td><img src="docs/dark.webp" width="320" alt="Dark Regular screenshot" /></td>
+      <td><img src="docs/dark-material.webp" width="320" alt="Dark Material screenshot" /></td>
+      <td><img src="docs/dark-blur.webp" width="320" alt="Dark Blur screenshot" /></td>
     </tr>
     <tr>
       <td>Light Medium</td>
-      <td><img src="docs/light.png" width="320" alt="Light Regular screenshot" /></td>
-      <td><img src="docs/light-material.png" width="320" alt="Light Material screenshot" /></td>
-      <td><img src="docs/light-blur.png" width="320" alt="Light Blur screenshot" /></td>
+      <td><img src="docs/light.webp" width="320" alt="Light Regular screenshot" /></td>
+      <td><img src="docs/light-material.webp" width="320" alt="Light Material screenshot" /></td>
+      <td><img src="docs/light-blur.webp" width="320" alt="Light Blur screenshot" /></td>
     </tr>
   </tbody>
 </table>
