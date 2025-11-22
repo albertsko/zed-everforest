@@ -1,7 +1,7 @@
 # 🌲 Everforest for Zed
 
 A faithful, exact port of sainnhe's [Everforest](https://github.com/sainnhe/everforest) theme for Zed.
-Comes in **regular**, **material**, and **blur** variants.
+Comes in `regular`, `material`, and `blur` variants.
 
 ## Palettes
 
