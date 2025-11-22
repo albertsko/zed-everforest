@@ -3,5 +3,5 @@ name = "Everforest"
 schema_version = 1
 version = "0.0.1"
 authors = ["Albert Skonieczny <albertskonieczny@gmail.com>"]
-description = "A faithful, exact port of sainnhe's Everforest theme for Zed. Comes in regular, material, and blur variants."
+description = "A faithful port of sainnhe's Everforest theme for Zed. Comes in regular, material, and blur variants."
 repository = "https://github.com/albertsko/zed-everforest"
