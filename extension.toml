@@ -1,5 +1,5 @@
-id = "everforest"
-name = "Everforest"
+id = "everforest-extended-theme"
+name = "Everforest Theme (Extended)"
 schema_version = 1
 version = "0.0.1"
 authors = ["Albert Skonieczny <albertskonieczny@gmail.com>"]
