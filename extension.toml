@@ -1,7 +1,7 @@
-id = "everforest-extended-theme"
-name = "Everforest Theme (Extended)"
+id = "everforet"
+name = "Everforest Theme"
 schema_version = 1
-version = "0.0.1"
+version = "0.0.4"
 authors = ["Albert Skonieczny <albertskonieczny@gmail.com>"]
 description = "A faithful port of sainnhe's Everforest theme for Zed. Comes in regular, material, and blur variants."
 repository = "https://github.com/albertsko/zed-everforest"
