@@ -34,3 +34,9 @@ test: ## go test
 .PHONY: ci
 ci: ## run checks used by CI
 ci: fmt-check vet test
+
+.PHONY: copygen
+copygen: ## copies generated themes to ~/.config/zed/themes
+	go run . generate
+	mkdir -p ~/.config/zed/themes
+	cp themes/*.json ~/.config/zed/themes/

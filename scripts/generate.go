@@ -11,14 +11,14 @@ import (
 )
 
 const (
-	Author = "Albert Skonieczny <albertskonieczny@gmail.com>"
-	Name   = "Everforest"
+	Author = "Albert Skonieczny <github.com/albertsko>"
+	Name   = "Everforest Theme"
 
-	EverforestTemplatePath         = "./templates/everforest.json.tmpl"
+	EverforestTemplatePath         = "./templates/everforest-regular.json.tmpl"
 	EverforestMaterialTemplatePath = "./templates/everforest-material.json.tmpl"
 	EverforestBlurTemplatePath     = "./templates/everforest-blur.json.tmpl"
 
-	EverforestOutputPath         = "./themes/everforest.json"
+	EverforestOutputPath         = "./themes/everforest-regular.json"
 	EverforestMaterialOutputPath = "./themes/everforest-material.json"
 	EverforestBlurOutputPath     = "./themes/everforest-blur.json"
 
@@ -40,7 +40,7 @@ var zedThemes = []ZedTheme{
 	{
 		Author:       Author,
 		Name:         Name,
-		NameSuffix:   "",
+		NameSuffix:   " (regular)",
 		TemplatePath: EverforestTemplatePath,
 		OutputPath:   EverforestOutputPath,
 		Themes:       themeVariants,
