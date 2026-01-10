@@ -1,3 +1,3 @@
 module github.com/albertsko/zed-everforest
 
-go 1.25.3
+go 1.25.5

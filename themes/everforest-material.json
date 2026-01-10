@@ -157,7 +157,7 @@
           "variant": { "color": "#d3c6aa" }
         },
         "tab_bar.background": "#272e33",
-        "tab.active_background": "#374145",
+        "tab.active_background": "#3c4841",
         "tab.inactive_background": "#272e33",
         "terminal.ansi.background": "#272e33",
         "terminal.ansi.black": "#1e2326",
@@ -358,7 +358,7 @@
           "variant": { "color": "#d3c6aa" }
         },
         "tab_bar.background": "#2d353b",
-        "tab.active_background": "#3d484d",
+        "tab.active_background": "#425047",
         "tab.inactive_background": "#2d353b",
         "terminal.ansi.background": "#2d353b",
         "terminal.ansi.black": "#232a2e",
@@ -559,7 +559,7 @@
           "variant": { "color": "#d3c6aa" }
         },
         "tab_bar.background": "#333c43",
-        "tab.active_background": "#434f55",
+        "tab.active_background": "#48584e",
         "tab.inactive_background": "#333c43",
         "terminal.ansi.background": "#333c43",
         "terminal.ansi.black": "#293136",
@@ -760,7 +760,7 @@
           "variant": { "color": "#5c6a72" }
         },
         "tab_bar.background": "#fffbef",
-        "tab.active_background": "#f2efdf",
+        "tab.active_background": "#f3f5d9",
         "tab.inactive_background": "#fffbef",
         "terminal.ansi.background": "#fffbef",
         "terminal.ansi.black": "#f2efdf",
@@ -961,7 +961,7 @@
           "variant": { "color": "#5c6a72" }
         },
         "tab_bar.background": "#fdf6e3",
-        "tab.active_background": "#efebd4",
+        "tab.active_background": "#f0f1d2",
         "tab.inactive_background": "#fdf6e3",
         "terminal.ansi.background": "#fdf6e3",
         "terminal.ansi.black": "#efebd4",
@@ -1162,7 +1162,7 @@
           "variant": { "color": "#5c6a72" }
         },
         "tab_bar.background": "#f3ead3",
-        "tab.active_background": "#e5dfc5",
+        "tab.active_background": "#e5e6c5",
         "tab.inactive_background": "#f3ead3",
         "terminal.ansi.background": "#f3ead3",
         "terminal.ansi.black": "#e5dfc5",

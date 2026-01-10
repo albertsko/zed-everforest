@@ -1,7 +1,7 @@
 id = "everforest"
 name = "Everforest Theme (regular, material, blur)"
 schema_version = 1
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Albert Skonieczny <github.com/albertsko>"]
-description = "A faithful port of sainnhe's Everforest theme for Zed. Comes in regular, material, and blur variants."
+description = "🌲 Everforest color scheme for Zed. Theme comes in regular, material, and blur variants."
 repository = "https://github.com/albertsko/zed-everforest"
