@@ -6,13 +6,9 @@ SHELL := /bin/bash
 help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
-.PHONY: run
-run: ## go run
-	go run .
-
 .PHONY: generate
 generate: ## generate theme files
-	go run . generate
+	go run generate.go
 
 .PHONY: fmt-check
 fmt-check: ## ensure gofmt has been run
@@ -37,6 +33,6 @@ ci: fmt-check vet test
 
 .PHONY: copygen
 copygen: ## copies generated themes to ~/.config/zed/themes
-	go run . generate
+	go run generate.go
 	mkdir -p ~/.config/zed/themes
 	cp themes/*.json ~/.config/zed/themes/
