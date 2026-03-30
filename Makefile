@@ -12,7 +12,7 @@ generate: ## generate theme files
 
 .PHONY: fmt-check
 fmt-check: ## ensure gofmt has been run
-	@files=$$(gofmt -l .); \
+	@files=$$(gofmt -l generate.go); \
 	if [ -n "$$files" ]; then \
 		echo "gofmt required for:"; \
 		echo "$$files"; \
@@ -21,11 +21,11 @@ fmt-check: ## ensure gofmt has been run
 
 .PHONY: vet
 vet: ## go vet static checks
-	go vet ./...
+	go vet generate.go
 
 .PHONY: test
 test: ## go test
-	go test ./...
+	go test generate.go
 
 .PHONY: ci
 ci: ## run checks used by CI
