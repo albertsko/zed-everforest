@@ -8,7 +8,7 @@
       "name": "Everforest Dark Hard (regular)",
       "style": {
         "accents": ["#a7c080"],
-        "background": "#374145",
+        "background": "#2e383c",
         "background.appearance": "opaque",
         "border": "#374145",
         "border.disabled": "#493b40",
@@ -209,7 +209,7 @@
       "name": "Everforest Dark Medium (regular)",
       "style": {
         "accents": ["#a7c080"],
-        "background": "#3d484d",
+        "background": "#343f44",
         "background.appearance": "opaque",
         "border": "#3d484d",
         "border.disabled": "#514045",
@@ -410,7 +410,7 @@
       "name": "Everforest Dark Soft (regular)",
       "style": {
         "accents": ["#a7c080"],
-        "background": "#434f55",
+        "background": "#3a464c",
         "background.appearance": "opaque",
         "border": "#434f55",
         "border.disabled": "#59464c",
@@ -611,7 +611,7 @@
       "name": "Everforest Light Hard (regular)",
       "style": {
         "accents": ["#93b259"],
-        "background": "#f2efdf",
+        "background": "#f8f5e4",
         "background.appearance": "opaque",
         "border": "#f2efdf",
         "border.disabled": "#ffe7de",
@@ -812,7 +812,7 @@
       "name": "Everforest Light Medium (regular)",
       "style": {
         "accents": ["#93b259"],
-        "background": "#efebd4",
+        "background": "#f4f0d9",
         "background.appearance": "opaque",
         "border": "#efebd4",
         "border.disabled": "#fde3da",
@@ -1013,7 +1013,7 @@
       "name": "Everforest Light Soft (regular)",
       "style": {
         "accents": ["#93b259"],
-        "background": "#e5dfc5",
+        "background": "#eae4ca",
         "background.appearance": "opaque",
         "border": "#e5dfc5",
         "border.disabled": "#fadbd0",
