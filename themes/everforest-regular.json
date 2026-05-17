@@ -8,7 +8,6 @@
       "name": "Everforest Dark Hard (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#e67e80",
           "#e69875",
           "#dbbc7f",
@@ -16,17 +15,6 @@
           "#83c092",
           "#7fbbb3",
           "#d699b6"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#a7c080"],
-=======
-          "#a7c080",
-          "#83c092",
-          "#7fbbb3",
-          "#d699b6",
-          "#e67e80",
-          "#e69875",
-          "#dbbc7f"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#2e383c",
         "background.appearance": "opaque",
@@ -87,19 +75,9 @@
         "icon.disabled": "#859289",
         "icon.muted": "#859289",
         "icon.placeholder": "#859289",
-<<<<<<< HEAD
         "ignored": "#7a8478",
         "ignored.background": "#7a84781a",
         "ignored.border": "#374145",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#859289",
-        "ignored.background": "#2e383c",
-        "ignored.border": "#2e383c",
-=======
-        "ignored": "#7a8478b0",
-        "ignored.background": "#2e383c",
-        "ignored.border": "#2e383c",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#a7c080",
         "info.background": "#3c4841",
         "info.border": "#3c4841",
@@ -239,7 +217,6 @@
       "name": "Everforest Dark Medium (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#e67e80",
           "#e69875",
           "#dbbc7f",
@@ -247,17 +224,6 @@
           "#83c092",
           "#7fbbb3",
           "#d699b6"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#a7c080"],
-=======
-          "#a7c080",
-          "#83c092",
-          "#7fbbb3",
-          "#d699b6",
-          "#e67e80",
-          "#e69875",
-          "#dbbc7f"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#343f44",
         "background.appearance": "opaque",
@@ -318,19 +284,9 @@
         "icon.disabled": "#859289",
         "icon.muted": "#859289",
         "icon.placeholder": "#859289",
-<<<<<<< HEAD
         "ignored": "#7a8478",
         "ignored.background": "#7a84781a",
         "ignored.border": "#3d484d",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#859289",
-        "ignored.background": "#343f44",
-        "ignored.border": "#343f44",
-=======
-        "ignored": "#7a8478b0",
-        "ignored.background": "#343f44",
-        "ignored.border": "#343f44",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#a7c080",
         "info.background": "#425047",
         "info.border": "#425047",
@@ -470,7 +426,6 @@
       "name": "Everforest Dark Soft (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#e67e80",
           "#e69875",
           "#dbbc7f",
@@ -478,17 +433,6 @@
           "#83c092",
           "#7fbbb3",
           "#d699b6"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#a7c080"],
-=======
-          "#a7c080",
-          "#83c092",
-          "#7fbbb3",
-          "#d699b6",
-          "#e67e80",
-          "#e69875",
-          "#dbbc7f"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#3a464c",
         "background.appearance": "opaque",
@@ -549,19 +493,9 @@
         "icon.disabled": "#859289",
         "icon.muted": "#859289",
         "icon.placeholder": "#859289",
-<<<<<<< HEAD
         "ignored": "#7a8478",
         "ignored.background": "#7a84781a",
         "ignored.border": "#434f55",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#859289",
-        "ignored.background": "#3a464c",
-        "ignored.border": "#3a464c",
-=======
-        "ignored": "#7a8478b0",
-        "ignored.background": "#3a464c",
-        "ignored.border": "#3a464c",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#a7c080",
         "info.background": "#48584e",
         "info.border": "#48584e",
@@ -701,7 +635,6 @@
       "name": "Everforest Light Hard (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#f85552",
           "#f57d26",
           "#dfa000",
@@ -709,17 +642,6 @@
           "#35a77c",
           "#3a94c5",
           "#df69ba"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#93b259"],
-=======
-          "#8da101",
-          "#35a77c",
-          "#3a94c5",
-          "#df69ba",
-          "#f85552",
-          "#f57d26",
-          "#dfa000"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#f8f5e4",
         "background.appearance": "opaque",
@@ -780,19 +702,9 @@
         "icon.disabled": "#939f91",
         "icon.muted": "#939f91",
         "icon.placeholder": "#939f91",
-<<<<<<< HEAD
         "ignored": "#a6b0a0",
         "ignored.background": "#a6b0a01a",
         "ignored.border": "#f2efdf",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#939f91",
-        "ignored.background": "#f8f5e4",
-        "ignored.border": "#f8f5e4",
-=======
-        "ignored": "#a6b0a0b0",
-        "ignored.background": "#f8f5e4",
-        "ignored.border": "#f8f5e4",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#8da101",
         "info.background": "#f3f5d9",
         "info.border": "#f3f5d9",
@@ -932,7 +844,6 @@
       "name": "Everforest Light Medium (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#f85552",
           "#f57d26",
           "#dfa000",
@@ -940,17 +851,6 @@
           "#35a77c",
           "#3a94c5",
           "#df69ba"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#93b259"],
-=======
-          "#8da101",
-          "#35a77c",
-          "#3a94c5",
-          "#df69ba",
-          "#f85552",
-          "#f57d26",
-          "#dfa000"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#f4f0d9",
         "background.appearance": "opaque",
@@ -1011,19 +911,9 @@
         "icon.disabled": "#939f91",
         "icon.muted": "#939f91",
         "icon.placeholder": "#939f91",
-<<<<<<< HEAD
         "ignored": "#a6b0a0",
         "ignored.background": "#a6b0a01a",
         "ignored.border": "#efebd4",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#939f91",
-        "ignored.background": "#f4f0d9",
-        "ignored.border": "#f4f0d9",
-=======
-        "ignored": "#a6b0a0b0",
-        "ignored.background": "#f4f0d9",
-        "ignored.border": "#f4f0d9",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#8da101",
         "info.background": "#f0f1d2",
         "info.border": "#f0f1d2",
@@ -1163,7 +1053,6 @@
       "name": "Everforest Light Soft (regular)",
       "style": {
         "accents": [
-<<<<<<< HEAD
           "#f85552",
           "#f57d26",
           "#dfa000",
@@ -1171,17 +1060,6 @@
           "#35a77c",
           "#3a94c5",
           "#df69ba"
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "accents": ["#93b259"],
-=======
-          "#8da101",
-          "#35a77c",
-          "#3a94c5",
-          "#df69ba",
-          "#f85552",
-          "#f57d26",
-          "#dfa000"
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         ],
         "background": "#eae4ca",
         "background.appearance": "opaque",
@@ -1242,19 +1120,9 @@
         "icon.disabled": "#939f91",
         "icon.muted": "#939f91",
         "icon.placeholder": "#939f91",
-<<<<<<< HEAD
         "ignored": "#a6b0a0",
         "ignored.background": "#a6b0a01a",
         "ignored.border": "#e5dfc5",
-||||||| parent of cc10397 (chore: tune 6179a57 changes)
-        "ignored": "#939f91",
-        "ignored.background": "#eae4ca",
-        "ignored.border": "#eae4ca",
-=======
-        "ignored": "#a6b0a0b0",
-        "ignored.background": "#eae4ca",
-        "ignored.border": "#eae4ca",
->>>>>>> cc10397 (chore: tune 6179a57 changes)
         "info": "#8da101",
         "info.background": "#e5e6c5",
         "info.border": "#e5e6c5",
